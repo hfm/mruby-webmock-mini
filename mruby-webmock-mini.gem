@@ -1,5 +1,5 @@
 name: mruby-webmock-mini
-description: WebMock class
+description: Minimal Webmock: Library for stubbing HTTP requests in mruby
 author: Okumura Takahiro
 website: https://github.com/hfm/mruby-webmock-mini
 protocol: git
